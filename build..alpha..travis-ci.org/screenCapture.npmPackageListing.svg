@@ -1,14 +1,17 @@
-<svg height="174" width="720" xmlns="http://www.w3.org/2000/svg">
-<rect height="174" fill="#555" width="720"></rect>
+<svg height="222" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="222" fill="#555" width="720"></rect>
 <text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
-<tspan x="10" y="26">  0.  2017-04-17 23:10:16 +0000  7278228 bytes  .</tspan>
-<tspan x="10" y="42">  1.  2017-04-17 23:10:16 +0000   423465 bytes  Oimo.js</tspan>
-<tspan x="10" y="58">  2.  2017-04-17 23:10:16 +0000    11472 bytes  README.md</tspan>
-<tspan x="10" y="74">  3.  2017-04-17 23:10:16 +0000   872931 bytes  babylon.core.js</tspan>
-<tspan x="10" y="90">  4.  2017-04-17 23:10:16 +0000   592527 bytes  babylon.d.ts</tspan>
-<tspan x="10" y="106">  5.  2017-04-17 23:10:16 +0000  1274235 bytes  babylon.js</tspan>
-<tspan x="10" y="122">  6.  2017-04-17 23:10:16 +0000  2900964 bytes  babylon.max.js</tspan>
-<tspan x="10" y="138">  7.  2017-04-17 23:10:16 +0000  1200198 bytes  babylon.noworker.js</tspan>
-<tspan x="10" y="154">  8.  2017-04-17 23:10:16 +0000     2436 bytes  package.json</tspan>
+<tspan x="10" y="26">  0.  2017-04-22 10:31:13 +0000  9888585 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-22 10:31:13 +0000   423465 bytes  Oimo.js</tspan>
+<tspan x="10" y="58">  2.  2017-04-22 10:31:13 +0000    11472 bytes  README.md</tspan>
+<tspan x="10" y="74">  3.  2017-04-22 10:31:13 +0000   261550 bytes  babylon.canvas2d.d.ts</tspan>
+<tspan x="10" y="90">  4.  2017-04-22 10:31:13 +0000  1036798 bytes  babylon.canvas2d.js</tspan>
+<tspan x="10" y="106">  5.  2017-04-22 10:31:13 +0000   947422 bytes  babylon.core.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-22 10:31:13 +0000   724353 bytes  babylon.d.ts</tspan>
+<tspan x="10" y="138">  7.  2017-04-22 10:31:13 +0000  1336416 bytes  babylon.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-22 10:31:13 +0000  3161117 bytes  babylon.max.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-22 10:31:13 +0000   724372 bytes  babylon.module.d.ts</tspan>
+<tspan x="10" y="186"> 10.  2017-04-22 10:31:13 +0000  1260682 bytes  babylon.noworker.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-22 10:31:13 +0000      938 bytes  package.json</tspan>
 </text>
 </svg>
