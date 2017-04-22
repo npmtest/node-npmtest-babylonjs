@@ -1,4 +1,7 @@
-# test coverage for  [babylonjs (v2.5.0)](https://github.com/BabylonJS/Babylon.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-babylonjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babylonjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babylonjs.svg)](https://travis-ci.org/npmtest/node-npmtest-babylonjs)
+# npmtest-babylonjs
+
+#### basic test coverage for  babylonjs (v3.0.0-alpha)  [![npm package](https://img.shields.io/npm/v/npmtest-babylonjs.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-babylonjs) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-babylonjs.svg)](https://travis-ci.org/npmtest/node-npmtest-babylonjs)
+
 #### Babylon.js is a JavaScript 3D engine based on webgl.
 
 [![NPM](https://nodei.co/npm/babylonjs.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/babylonjs)
@@ -35,35 +38,30 @@
     "author": {
         "name": "David CATUHE"
     },
-    "bugs": {
-        "url": "https://github.com/BabylonJS/Babylon.js/issues"
-    },
     "contributors": [
-        {
-            "name": "David ROUSSET"
-        }
+        "David ROUSSET"
     ],
-    "dependencies": {},
+    "name": "babylonjs",
     "description": "Babylon.js is a JavaScript 3D engine based on webgl.",
-    "devDependencies": {},
-    "directories": {},
-    "dist": {
-        "shasum": "82e72922b6d681d46c766aeaaafda74f572a6ed3",
-        "tarball": "https://registry.npmjs.org/babylonjs/-/babylonjs-2.5.0.tgz"
+    "version": "3.0.0-alpha",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/BabylonJS/Babylon.js.git"
     },
-    "engines": {
-        "node": "*"
-    },
+    "main": "babylon.js",
     "files": [
         "babylon.d.ts",
+        "babylon.module.d.ts",
         "babylon.js",
         "babylon.max.js",
         "babylon.noworker.js",
         "babylon.core.js",
+        "babylon.canvas2d.js",
+        "babylon.canvas2d.d.ts",
         "Oimo.js",
         "package.json"
     ],
-    "homepage": "https://github.com/BabylonJS/Babylon.js#readme",
+    "typings": "babylon.module.d.ts",
     "keywords": [
         "3D",
         "javascript",
@@ -71,21 +69,12 @@
         "webgl"
     ],
     "license": "Apache-2.0",
-    "main": "babylon.js",
-    "maintainers": [
-        {
-            "name": "babylonjs"
-        }
-    ],
-    "name": "babylonjs",
-    "optionalDependencies": {},
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/BabylonJS/Babylon.js.git"
+    "dependencies": {},
+    "engines": {
+        "node": "*"
     },
-    "scripts": {},
-    "typings": "babylon.d.ts",
-    "version": "2.5.0"
+    "readmeFilename": "README.md",
+    "bin": {}
 }
 ```
 
